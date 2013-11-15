@@ -1,0 +1,5 @@
+json = {
+  id:   item.id,
+  url:  url(item.id),
+  person_id: item.person_id
+}
